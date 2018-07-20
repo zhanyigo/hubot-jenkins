@@ -1,0 +1,37 @@
+{
+  "author": {
+    "name": "Yi Zhan"
+  },
+  "bugs": {
+    "url": "https://github.com/zhanyigo/hubot-jenkins"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "coffee-script": "~1.6"
+  },
+  "deprecated": false,
+  "description": "Jenkins Integration for Hubot",
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*",
+    "sinon": "*",
+    "sinon-chai": "*"
+  },
+  "homepage": "https://github.com/zhanyigo/hubot-jenkins",
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "hubot-jenkins"
+  ],
+  "license": "MIT",
+  "main": "index.coffee",
+  "name": "hubot-jenkins-x",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zhanyigo/hubot-jenkins.git"
+  },
+  "scripts": {
+    "test": "script/test"
+  },
+  "version": "1.0.3"
+}
